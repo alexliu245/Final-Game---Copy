@@ -1,0 +1,12 @@
+Dwarf Axeman
+800
+15
+6
+34
+34
+game sprites/enemies/2/light_dwarfaxeman_l.png
+game sprites/enemies/2/light_dwarfaxeman_r.png
+1
+x
+M.180..
+

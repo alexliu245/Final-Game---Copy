@@ -1,0 +1,52 @@
+14
+Cheater's Plate ~ 9
+Acropolis Armor ~ 10
+Candy-coated Armor ~ 10
+Golem Armor ~ 11
+Cheater's Armor ~ 9
+Coral Silk Armor ~ 9
+Hydra Skin Armor ~ 10
+Spectral Cloth Armor ~ 11
+Cheater's Robes ~ 9
+Mad Scientist's Robes ~ 9
+Tribal Robes ~ 10
+Robes of Holy Light ~ 11
+Heaven's Wall ~ 10
+Tome of Ultimate Protection ~ 10
+
+Ray Blade ~ 9
+Venomous Blade ~ 9
+Buster Blade ~ 10
+Diamond Bladed Longsword ~ 10
+Arbiter's Wrath ~ 11
+Masamune ~ 11
+Pirate King's Cutlass ~ 9
+Vinesword ~ 9
+Ancient Stone Sword ~ 10
+Crystal Sword ~ 10
+Demon Blade ~ 11
+Frostbite ~ 11
+Coral Bow ~ 9
+Leaf Bow ~ 9
+Cupid's Bow ~ 10
+Robobow ~ 10
+Bow of Eternal Frost ~ 11
+Doom Bow ~ 11
+Staff of the Crystal Serpent ~ 9
+Tree Branch ~ 9
+Anatis Staff ~ 10
+Staff of Adoration ~ 10
+Staff of Apocalypse ~ 11
+Sprite Wand ~ 9
+Wand of Budding ~ 9
+Wand of Egg-cellence ~ 10
+Wand of the Bulwark ~ 10
+Conducting Wand ~ 11
+St. Abraham's Wand ~ 11
+Bone Daggers ~ 9
+Spirit Daggers ~ 9
+Chicken Legs of Doom ~ 10
+Heartfind Daggers ~ 10
+Poison Fang Daggers ~ 10
+Dirks of Cronus ~ 11
+Sunshine Shivs ~ 11

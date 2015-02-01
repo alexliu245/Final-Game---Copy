@@ -1,0 +1,12 @@
+Elf Boss
+750
+50
+4
+42
+42
+game sprites/enemies/1/light_elfswordsman_l.png
+game sprites/enemies/1/light_elfswordsman_r.png
+1
+game sprites/enemies/projectiles/Blue Missile.png
+SF.175.0.7
+450

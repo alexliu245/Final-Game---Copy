@@ -1,0 +1,35 @@
+Knight
+Iron Wall - +75% Def and Armor.[8][3]A
+Great Slash - deals 250% damage to one target.[20][15]
+Frontline - resets aggro of all team members, attracts all enemy aggro to Knight.[25][20]
+Bladestorm - creates an aura for 5 seconds, dealing 125% damage to all enemies within range per second, grants 40% def while active.[60][50]
+
+Archer
+Trishot - launches 3 arrows in different directions at once, dealing 150% damage.[15][15]
+Quickdraw - increases atk spd by +75%. [9][3]A 
+Heavy Draw - launches piercing arrow that deals 200% damage.[15][15]
+Seige - AoE attack with global range, deals 175% damage randomly to targets inside the attack's range every 0.5 seconds for 5 seconds.[80][45]
+
+Priest
+Heal - heals target player for 25% max hp and grants +25% def for 3 seconds.[35][15]
+Cleanse - target player recovers 50% mp [0][20]
+Judgement Aura - resets target player cooldowns and grants +25% damage for 5 seconds [35][20]
+Miracle - heals 50% of each party members' max health, grants +25% atk spd and def for 10 seconds. [125][60]
+
+Wizard
+Bolt - launches bolt of lightning that deals 200% dmg to target enemy. [20][10]
+Implode - deals instant 175% damage to target enemy. If target enemy dies, it explodes, dealing 200% dmg to all enemies around it. [25][10]
+Channel - mp regain increases by 20 while active, immobilized while active [0][3]A
+Cataclysm - deals 300% damage to all targets on screen over 5 seconds(60% per second), ignores enemy defense. [100][55]
+
+Paladin
+White Light - deals 150% damage to target enemy + 25% damage per second for 3 seconds.[20][15]
+Blessing - +50% defense and +25% damage for 10 seconds.[20][20]
+Sanctuary - Aura surrounds player. Any enemies within the aura take 30% damage per second, and all players withing aura heal 2% hp per second. [15][3]A
+Divine Retribution -  Player is invincible while move is active. At the end of 10 seconds, 3x damage taken while move is active is returned to all enemies on screen, and player is healed for 50% of max health. [80][60]
+
+Assassin
+Shadow Walk - turn invisible for 7 seconds, dealing 130% of crit dmg on first target. Ends if player attacks. [30][20]
+Shadow Cut - teleports to target and deals 150% of crit dmg. [30][20]
+Poisoned Edge - +45% dmg while active [7][3]A
+Swift Death - grants +75% atk spd, +50% crit dmg and 100% crit chance for 5 seconds. [80][60]

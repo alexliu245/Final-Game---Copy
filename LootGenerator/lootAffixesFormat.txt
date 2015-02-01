@@ -1,0 +1,6 @@
+# weapon prefixes
+name ~ effect ~ value ~ chance
+# weapon suffixes
+# armor prefixes
+# armor suffixes
+# accessory effects

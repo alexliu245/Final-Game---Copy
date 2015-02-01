@@ -1,0 +1,14 @@
+Greater Viper	
+1350
+45
+5
+82
+42
+game sprites/enemies/1/light_elfswordsman_l.png
+game sprites/enemies/1/light_elfswordsman_r.png
+2
+x
+game sprites/enemies/projectiles/Snake Spit.png
+M.120.0.0
+SF.160.0.7
+725

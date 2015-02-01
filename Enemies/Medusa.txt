@@ -1,0 +1,14 @@
+Medusa
+1750
+75
+5
+82
+82
+game sprites/enemies/1/miniboss_medusa_l.png
+game sprites/enemies/1/miniboss_medusa_r.png
+2
+x
+game sprites/enemies/projectiles/Green Bolt.png
+M.200.0.0
+SF.250.0.7
+2500

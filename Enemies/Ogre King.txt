@@ -1,0 +1,14 @@
+Ogre King
+3750
+200
+5
+50
+50
+game sprites/enemies/3/heavy_ogreking_l.png
+game sprites/enemies/3/heavy_ogreking_r.png
+2
+x
+game sprites/enemies/projectiles/Blade.png
+M.900.0.0
+SF.1000.0.3
+3150

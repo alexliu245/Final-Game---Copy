@@ -1,0 +1,11 @@
+Elf Archer
+305
+15
+6
+42
+42
+game sprites/enemies/1/light_elfarcher_l.png
+game sprites/enemies/1/light_elfarcher_r.png
+1
+game sprites/enemies/projectiles/Green Arrow.png
+SF.90.0.8

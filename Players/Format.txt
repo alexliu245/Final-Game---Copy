@@ -1,0 +1,16 @@
+hp
+def
+max mana
+mana regen rate
+damage
+atk spd
+crit chance
+evasion
+crit dmg
+class type (knight,archer,wizard,priest,assassin,paladin)
+weight type (light,medium,heavy)
+attack type (ranged,melee)
+hp level up bonus
+def level up bonus
+damage level up bonus
+autoattack range

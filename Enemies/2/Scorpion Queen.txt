@@ -1,0 +1,12 @@
+Scorpion Queen
+1100
+50
+4
+62
+62
+game sprites/enemies/2/medium_scorpionqueen_l.png
+game sprites/enemies/2/medium_scorpionqueen_r.png
+1
+x
+M.250..
+

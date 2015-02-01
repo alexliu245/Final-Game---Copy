@@ -1,0 +1,16 @@
+Leviathan
+3250
+75
+6
+82
+82
+game sprites/enemies/2/miniboss_leviathan_l.png
+game sprites/enemies/2/miniboss_leviathan_r.png
+3
+x
+game sprites/enemies/projectiles/Aqua Missile.png
+game sprites/enemies/projectiles/Blue Missile.png
+M.600..
+3WF.600.0.6
+6AWF.500.1.5
+

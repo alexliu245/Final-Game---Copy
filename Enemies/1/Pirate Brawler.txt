@@ -1,0 +1,11 @@
+Pirate Brawler
+250
+10
+4
+37
+42
+game sprites/enemies/1/light_piratebrawler_l.png
+game sprites/enemies/1/light_piratebrawler_r.png
+1
+x
+M.51..

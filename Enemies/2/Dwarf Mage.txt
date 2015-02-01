@@ -1,0 +1,12 @@
+Dwarf Mage
+500
+20
+4
+34
+34
+game sprites/enemies/2/light_dwarfmage_l.png
+game sprites/enemies/2/light_dwarfmage_r.png
+1
+game sprites/enemies/projectiles/Red Fire.png
+SF.200.0.7
+

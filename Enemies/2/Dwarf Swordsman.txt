@@ -1,0 +1,12 @@
+Dwarf Swordsman
+650
+38
+4
+34
+34
+game sprites/enemies/2/light_dwarfswordsman_l.png
+game sprites/enemies/2/light_dwarfswordsman_r.png
+1
+x
+M.140..
+

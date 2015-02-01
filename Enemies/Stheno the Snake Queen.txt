@@ -1,0 +1,18 @@
+Stheno the Snake Queen
+3000
+80
+5
+82
+82
+game sprites/enemies/1/boss_sthenothesnakequeen_l.png
+game sprites/enemies/1/boss_sthenothesnakequeen_r.png
+4
+x
+game sprites/enemies/projectiles/Snake Ball Spinner.png
+game sprites/enemies/projectiles/Snake Spinner.png
+game sprites/enemies/projectiles/Snake Spit.png
+M.315.0.0
+SF.300.0.7
+3WF.250.1.6
+SF.350.2.5
+5000

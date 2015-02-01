@@ -1,0 +1,14 @@
+Pirate Boss
+375
+17
+4
+50
+50
+game sprites/enemies/1/heavy_pirateboss_l.png
+game sprites/enemies/1/heavy_pirateboss_r.png
+2
+x
+game sprites/enemies/projectiles/Black Ball.png
+M.75.0.0
+SF.125.0.8
+300

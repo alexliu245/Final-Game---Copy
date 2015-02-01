@@ -1,0 +1,6 @@
+# of armor items
+name	def	type	rarity	drop%	value	part
+# of weapon items
+name	atk	type	rarity	drop%	value
+# of accessories
+name	rarity	effectx	drop%	value

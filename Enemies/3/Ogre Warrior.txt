@@ -1,0 +1,11 @@
+Ogre Warrior
+1750
+100
+4
+50
+50
+game sprites/enemies/3/medium_ogrewarrior_l.png
+game sprites/enemies/3/medium_ogrewarrior_r.png
+1
+x
+M.650..

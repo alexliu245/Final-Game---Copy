@@ -1,0 +1,15 @@
+Ent
+7500
+175
+3
+82
+82
+game sprites/enemies/2/miniboss_ent_l.png
+game sprites/enemies/2/miniboss_ent_r.png
+2
+x
+game sprites/enemies/projectiles/Fire Bolt.png
+M.400.0.0
+SF.300.0.7
+4000
+

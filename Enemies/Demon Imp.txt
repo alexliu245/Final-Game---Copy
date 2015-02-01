@@ -1,0 +1,12 @@
+Demon Imp
+1000
+35
+5
+42
+42
+game sprites/enemies/3/light_demonimp_l.png
+game sprites/enemies/3/light_demonimp_r.png
+1
+x
+M.350.0.0
+850

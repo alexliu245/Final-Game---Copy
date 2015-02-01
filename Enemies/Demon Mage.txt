@@ -1,0 +1,12 @@
+Demon Mage
+750
+20
+5
+42
+42
+game sprites/enemies/3/light_demonmage_l.png
+game sprites/enemies/3/light_demonmage_r.png
+1
+game sprites/enemies/projectiles/Red Fire.png
+SF.525.0.7
+950

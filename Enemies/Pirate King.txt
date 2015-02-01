@@ -1,0 +1,14 @@
+Pirate King
+1000
+30
+4
+66
+66
+game sprites/enemies/1/miniboss_pirateking_l.png
+game sprites/enemies/1/miniboss_pirateking_r.png
+2
+x
+game sprites/enemies/projectiles/Black Ball.png
+M.100.0.0
+SF.150.0.8
+500

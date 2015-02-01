@@ -1,0 +1,12 @@
+Greater Snake
+1250
+40
+6
+42
+82
+game sprites/enemies/1/heavy_greatersnake_l.png
+game sprites/enemies/1/heavy_greatersnake_r.png
+1
+x
+M.140.0.0
+650

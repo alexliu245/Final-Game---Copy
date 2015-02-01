@@ -1,0 +1,11 @@
+name
+hp
+def
+move speed
+width
+height
+file path to image 1 (l)
+file path to image 2 (r)
+# of attacks
+ - file paths to images of projectiles
+ - attack types 

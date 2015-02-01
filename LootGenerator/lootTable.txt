@@ -1,0 +1,109 @@
+48
+Wooden Shield ~ 25 ~ heavy ~ 1 ~ 0.08 ~ 15 ~ secondary ~ Armor ~ game sprites/shields/T1 Wooden Shield.png
+Iron Shield ~ 50 ~ heavy ~ 2 ~ 0.08 ~ 30 ~ secondary ~ Armor ~ game sprites/shields/T2 Iron Shield.png
+Steel Shield ~ 75 ~ heavy ~ 3 ~ 0.08 ~ 50 ~ secondary ~ Armor ~ game sprites/shields/T3 Steel Shield.png
+Reinforced Shield ~ 100 ~ heavy ~ 4 ~ 0.08 ~ 75 ~ secondary ~ Armor ~ game sprites/shields/T4 Reinforced Shield.png
+Golden Shield ~ 125 ~ heavy ~ 5 ~ 0.08 ~ 110 ~ secondary ~ Armor ~ game sprites/shields/T5 Golden Shield.png
+Mithril Shield ~ 150 ~ heavy ~ 6 ~ 0.08 ~ 150 ~ secondary ~ Armor ~ game sprites/shields/T6 Mithril Shield.png
+Emerald Shield ~ 175 ~ heavy ~ 7 ~ 0.08 ~ 220 ~ secondary ~ Armor ~ game sprites/shields/T7 Emerald Shield.png
+Colossus Shield ~ 200 ~ heavy ~ 8 ~ 0.08 ~ 300 ~ secondary ~ Armor ~ game sprites/shields/T8 Colossus Shield.png
+Steel Armor ~ 40 ~ heavy ~ 1 ~ 0.08 ~ 20 ~ main ~ Armor ~ game sprites/heavy_armor/T1 Steel Armor.png
+Blue Steel Armor ~ 80 ~ heavy ~ 2 ~ 0.08 ~ 40 ~ main ~ Armor ~ game sprites/heavy_armor/T2 Blue Steel Armor.png
+Silver Armor ~ 120 ~ heavy ~ 3 ~ 0.08 ~ 70 ~ main ~ Armor ~ game sprites/heavy_armor/T3 Silver Armor.png
+Plate Armor ~ 160 ~ heavy ~ 4 ~ 0.08 ~ 110 ~ main ~ Armor ~ game sprites/heavy_armor/T4 Plate Armor.png
+Mithril Armor ~ 200 ~ heavy ~ 5 ~ 0.08 ~ 160 ~ main ~ Armor ~ game sprites/heavy_armor/T5 Mithril Armor.png
+Vengeance Armor ~ 240 ~ heavy ~ 6 ~ 0.08 ~ 220 ~ main ~ Armor ~ game sprites/heavy_armor/T6 Vengeance Armor.png
+Abyssal Armor ~ 280 ~ heavy ~ 7 ~ 0.08 ~ 290 ~ main ~ Armor ~ game sprites/heavy_armor/T7 Abyssal Armor.png
+Dragonscale Armor ~ 320 ~ heavy ~ 8 ~ 0.08 ~ 390 ~ main ~ Armor ~ game sprites/heavy_armor/T8 Dragonscale Armor.png
+Tattered Cloak ~ 15 ~ medium ~ 1 ~ 0.08 ~ 10 ~ secondary ~ Armor ~ game sprites/cloaks/T1 Tattered Cloak.png
+Leather Cloak ~ 30 ~ medium ~ 2 ~ 0.08 ~ 20 ~ secondary ~ Armor ~ game sprites/cloaks/T2 Leather Cloak.png
+Dawn Cloak ~ 45 ~ medium ~ 3 ~ 0.08 ~ 30 ~ secondary ~ Armor ~ game sprites/cloaks/T3 Dawn Cloak.png
+Darkness Cloak ~ 60 ~ medium ~ 4 ~ 0.08 ~ 50 ~ secondary ~ Armor ~ game sprites/cloaks/T4 Darkness Cloak.png
+Red Agent's Cloak ~ 75 ~ medium ~ 5 ~ 0.08 ~ 80 ~ secondary ~ Armor ~ game sprites/cloaks/T5 Red Agent's Cloak.png
+Twilight Cloak ~ 90 ~ medium ~ 6 ~ 0.08 ~ 120 ~ secondary ~ Armor ~ game sprites/cloaks/T6 Twilight Cloak.png
+Spectral Cloak ~ 115 ~ medium ~ 7 ~ 0.08 ~ 170 ~ secondary ~ Armor ~ game sprites/cloaks/T7 Spectral Cloak.png
+Planewalker's Cloak ~ 130 ~ medium ~ 8 ~ 0.08 ~ 250 ~ secondary ~ Armor ~ game sprites/cloaks/T8 Planewalker's Cloak.png
+Leather Armor ~ 25 ~ medium ~ 1 ~ 0.08 ~ 20 ~ main ~ Armor ~ game sprites/medium_armor/T1 Leather Armor.png
+Basilisk Hide Armor ~ 50 ~ medium ~ 2 ~ 0.08 ~ 45 ~ main ~ Armor ~ game sprites/medium_armor/T2 Basilisk Hide Armor.png
+Minotaur Hide Armor ~ 75 ~ medium ~ 3 ~ 0.08 ~ 65 ~ main ~ Armor ~ game sprites/medium_armor/T3 Minotaur Hide Armor.png
+Bearskin Armor ~ 100 ~ medium ~ 4 ~ 0.08 ~ 100 ~ main ~ Armor ~ game sprites/medium_armor/T4 Bearskin Armor.png
+Chimera Hide Armor ~ 125 ~ medium ~ 5 ~ 0.08 ~ 145 ~ main ~ Armor ~ game sprites/medium_armor/T5 Chimera Hide Armor.png
+Studded Leather Hide ~ 150 ~ medium ~ 6 ~ 0.08 ~ 200 ~ main ~ Armor ~ game sprites/medium_armor/T6 Studded Leather Armor.png
+Drake Hide Armor ~ 175 ~ medium ~ 7 ~ 0.08 ~ 260 ~ main ~ Armor ~ game sprites/medium_armor/T7 Drake Hide Armor.png
+Hippogriff Hide Armor ~ 200 ~ medium ~ 8 ~ 0.08 ~ 330 ~ main ~ Armor ~ game sprites/medium_armor/T8 Hippogriff Hide Armor.png
+Apprentice's Tome ~ 10 ~ light ~ 1 ~ 0.08 ~ 10 ~ secondary ~ Armor ~ game sprites/tomes/T1 Apprentice's Tome.png
+Acolyte's Tome ~ 20 ~ light ~ 2 ~ 0.08 ~ 20 ~ secondary ~ Armor ~ game sprites/tomes/T2 Acolyte's Tome.png
+Conjurer's Tome ~ 30 ~ light ~ 3 ~ 0.08 ~ 30 ~ secondary ~ Armor ~ game sprites/tomes/T3 Conjurer's Tome.png
+Adept's Tome ~ 40 ~ light ~ 4 ~ 0.08 ~ 50 ~ secondary ~ Armor ~ game sprites/tomes/T4 Adept's Tome.png
+Invoker's Tome ~ 50 ~ light ~ 5 ~ 0.08 ~ 80 ~ secondary ~ Armor ~ game sprites/tomes/T5 Invoker's Tome.png
+Master's Tome ~ 60 ~ light ~ 6 ~ 0.08 ~ 120 ~ secondary ~ Armor ~ game sprites/tomes/T6 Master's Tome.png
+Magus's Tome ~ 70 ~ light ~ 7 ~ 0.08 ~ 170 ~ secondary ~ Armor ~ game sprites/tomes/T7 Magus's Tome.png
+Grand Sorcerer's Tome ~ 80 ~ light ~ 8 ~ 0.08 ~ 250 ~ secondary ~ Armor ~ game sprites/tomes/T8 Grand Sorcerer's Tome.png
+Apprentice's Robes ~ 15 ~ light ~ 1 ~ 0.08 ~ 15 ~ main ~ Armor ~ game sprites/light_armor/T1 Apprentice's Robes.png
+Acolyte's Robes ~ 30 ~ light ~ 2 ~ 0.08 ~ 30 ~ main ~ Armor ~ game sprites/light_armor/T2 Acolyte's Robes.png
+Conjurer's Robes ~ 45 ~ light ~ 3 ~ 0.08 ~ 45 ~ main ~ Armor ~ game sprites/light_armor/T3 Conjurer's Robes.png
+Adept's Robes ~ 60 ~ light ~ 4 ~ 0.08 ~ 70 ~ main ~ Armor ~ game sprites/light_armor/T4 Adept's Robes.png
+Invoker's Robes ~ 75 ~ light ~ 5 ~ 0.08 ~ 110 ~ main ~ Armor ~ game sprites/light_armor/T5 Invoker's Robes.png
+Master's Robes ~ 90 ~ light ~ 6 ~ 0.08 ~ 160 ~ main ~ Armor ~ game sprites/light_armor/T6 Master's Robes.png
+Magus's Robes ~ 115 ~ light ~ 7 ~ 0.08 ~ 215 ~ main ~ Armor ~ game sprites/light_armor/T7 Magus's Robes.png
+Grand Sorcerer's Robes ~ 130 ~ light ~ 8 ~ 0.08 ~ 290 ~ main ~ Armor ~ game sprites/light_armor/T8 Grand Sorcerer's Robes.png
+48
+Plain Longsword ~ 45 ~ Knight ~ 1 ~ 0.08 ~ 25 ~ Weapon ~ game sprites/longswords/T1 Plain Longsword.png
+Steel Longsword ~ 90 ~ Knight ~ 2 ~ 0.08 ~ 50 ~ Weapon ~ game sprites/longswords/T2 Steel Longsword.png
+Cutthroat Longsword ~ 135 ~ Knight ~ 3 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/longswords/T3 Cutthroat Longsword.png
+Cutthroat Longsword ~ 135 ~ Knight ~ 4 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/longswords/T3 Cutthroat Longsword.png
+Sky Longsword ~ 180 ~ Knight ~ 5 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/longswords/T4 Sky Longsword.png
+Sky Longsword ~ 180 ~ Knight ~ 6 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/longswords/T4 Sky Longsword.png
+Jewel Eye Longsword ~ 225 ~ Knight ~ 7 ~ 0.08 ~ 275 ~ Weapon ~ game sprites/longswords/T5 Jewel Eye Longsword.png
+Demonic Longsword ~ 270 ~ Knight ~ 8 ~ 0.08 ~ 400 ~ Weapon ~ game sprites/longswords/T6 Demonic Longsword.png
+Shortsword ~ 40 ~ Paladin ~ 1 ~ 0.08 ~ 25 ~ Weapon ~ game sprites/swords/T1 Short Sword.png
+Falchion ~ 80 ~ Paladin ~ 2 ~ 0.08 ~ 50 ~ Weapon ~ game sprites/swords/T2 Falchion.png
+Silver Sword ~ 120 ~ Paladin ~ 3 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/swords/T3 Silver Sword.png
+Silver Sword ~ 120 ~ Paladin ~ 4 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/swords/T3 Silver Sword.png
+Ravenheart Sword ~ 160 ~ Paladin ~ 5 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/swords/T4 Ravenheart Sword.png
+Ravenheart Sword ~ 160 ~ Paladin ~ 6 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/swords/T4 Ravenheart Sword.png
+Dragonsoul Sword ~ 200 ~ Paladin ~ 7 ~ 0.08 ~ 275 ~ Weapon ~ game sprites/swords/T5 Dragonsoul Sword.png
+Skysplitter Sword ~ 240 ~ Paladin ~ 8 ~ 0.08 ~ 400 ~ Weapon ~ game sprites/swords/T6 Skysplitter Sword.png
+Shortbow ~ 65 ~ Archer ~ 1 ~ 0.08 ~ 30 ~ Weapon ~ game sprites/bows/T1 Shortbow.png
+Reinforced Bow ~ 130 ~ Archer ~ 2 ~ 0.08 ~ 55 ~ Weapon ~ game sprites/bows/T2 Reinforced Bow.png
+Ironwood Bow ~ 195 ~ Archer ~ 3 ~ 0.08 ~ 105 ~ Weapon ~ game sprites/bows/T3 Ironwood Bow.png
+Ironwood Bow ~ 195 ~ Archer ~ 4 ~ 0.08 ~ 105 ~ Weapon ~ game sprites/bows/T3 Ironwood Bow.png
+Golden Bow ~ 260 ~ Archer ~ 5 ~ 0.08 ~ 180 ~ Weapon ~ game sprites/bows/T4 Golden Bow.png
+Golden Bow ~ 260 ~ Archer ~ 6 ~ 0.08 ~ 180 ~ Weapon ~ game sprites/bows/T4 Golden Bow.png
+Blood Bow ~ 325 ~ Archer ~ 7 ~ 0.08 ~ 280 ~ Weapon ~ game sprites/bows/T5 Blood Bow.png
+Spectral Bow ~ 390 ~ Archer ~ 8 ~ 0.08 ~ 405 ~ Weapon ~ game sprites/bows/T6 Spectral Bow.png
+Energy Staff ~ 80 ~ Wizard ~ 1 ~ 0.08 ~ 25 ~ Weapon ~ game sprites/staves/T1 Energy Staff.png
+Serpentine Staff ~ 160 ~ Wizard ~ 2 ~ 0.08 ~ 50 ~ Weapon ~ game sprites/staves/T2 Serpentine Staff.png
+Meteor Staff ~ 240 ~ Wizard ~ 3 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/staves/T3 Meteor Staff.png
+Meteor Staff ~ 240 ~ Wizard ~ 4 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/staves/T3 Meteor Staff.png
+Destruction Staff ~ 320 ~ Wizard ~ 5 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/staves/T4 Destruction Staff.png
+Destruction Staff ~ 320 ~ Wizard ~ 6 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/staves/T4 Destruction Staff.png
+Astral Staff ~ 400 ~ Wizard ~ 7 ~ 0.08 ~ 275 ~ Weapon ~ game sprites/staves/T5 Astral Staff.png
+Cosmic Staff ~ 480 ~ Wizard ~ 8 ~ 0.08 ~ 400 ~ Weapon ~ game sprites/staves/T6 Cosmic Staff.png
+Force Wand ~ 30 ~ Priest ~ 1 ~ 0.08 ~ 20 ~ Weapon ~ game sprites/wands/T1 Force Wand.png
+Power Wand ~ 60 ~ Priest ~ 2 ~ 0.08 ~ 40 ~ Weapon ~ game sprites/wands/T2 Power Wand.png
+Eldritch Wand ~ 90 ~ Priest ~ 3 ~ 0.08 ~ 80 ~ Weapon ~ game sprites/wands/T3 Eldritch Wand.png
+Eldritch Wand ~ 90 ~ Priest ~ 4 ~ 0.08 ~ 80 ~ Weapon ~ game sprites/wands/T3 Eldritch Wand.png
+Arcane Wand ~ 120 ~ Priest ~ 5 ~ 0.08 ~ 140 ~ Weapon ~ game sprites/wands/T4 Arcane Wand.png
+Arcane Wand ~ 120 ~ Priest ~ 6 ~ 0.08 ~ 140 ~ Weapon ~ game sprites/wands/T4 Arcane Wand.png
+Holy Wand ~ 150 ~ Priest ~ 7 ~ 0.08 ~ 220 ~ Weapon ~ game sprites/wands/T5 Holy Wand.png
+Crystal Wand ~ 180 ~ Priest ~ 8 ~ 0.08 ~ 320 ~ Weapon ~ game sprites/wands/T6 Crystal Wand.png
+Steel Daggers ~ 70 ~ Assassin ~ 1 ~ 0.08 ~ 25 ~ Weapon ~ game sprites/daggers/T1 Steel Daggers.png
+Blue Steel Daggers ~ 140 ~ Assassin ~ 2 ~ 0.08 ~ 50 ~ Weapon ~ game sprites/daggers/T2 Blue Steel Daggers.png
+Obsidian Daggers ~ 210 ~ Assassin ~ 3 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/daggers/T3 Obsidian Daggers.png
+Obsidian Daggers ~ 210 ~ Assassin ~ 4 ~ 0.08 ~ 100 ~ Weapon ~ game sprites/daggers/T3 Obsidian Daggers.png
+Mithril Daggers ~ 280 ~ Assassin ~ 5 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/daggers/T4 Mithril Daggers.png
+Mithril Daggers ~ 280 ~ Assassin ~ 6 ~ 0.08 ~ 175 ~ Weapon ~ game sprites/daggers/T4 Mithril Daggers.png
+Emeraldshard Daggers ~ 350 ~ Assassin ~ 7 ~ 0.08 ~ 275 ~ Weapon ~ game sprites/daggers/T5 Emeraldshard Daggers.png
+Agateclaw Daggers ~ 420 ~ Assassin ~ 8 ~ 0.08 ~ 400 ~ Weapon ~ game sprites/daggers/T6 Agateclaw Daggers.png
+8
+Minor Ring ~ 1 ~ 0.25 ~ 0.08 ~ 25 ~ Accessory ~ game sprites/rings/T1 Ring.png
+Standard Ring ~ 2 ~ 0.5 ~ 0.08 ~ 50 ~ Accessory ~ game sprites/rings/T2 Ring.png
+Good Ring ~ 3 ~ 1 ~ 0.08 ~ 100 ~ Accessory ~ game sprites/rings/T3 Ring.png
+Great Ring ~ 4 ~ 1.25 ~ 0.08 ~ 150 ~ Accessory ~ game sprites/rings/T4 Ring.png
+Pure Ring ~ 5 ~ 1.75 ~ 0.08 ~ 225 ~ Accessory ~ game sprites/rings/T5 Ring.png
+Superior Ring ~ 6 ~ 2.25 ~ 0.08 ~ 300 ~ Accessory ~ game sprites/rings/T6 Ring.png
+Paramount Ring ~ 7 ~ 2.75 ~ 0.08 ~ 375 ~ Accessory ~ game sprites/rings/T7 Ring.png
+Exalted Ring ~ 8 ~ 3.5 ~ 0.08 ~ 450 ~ Accessory ~ game sprites/rings/T8 Ring.png
+
+

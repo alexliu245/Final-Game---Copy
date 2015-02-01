@@ -1,0 +1,18 @@
+Archdemon Lucifer
+12500
+200
+5
+82
+82
+game sprites/enemies/3/boss_archdemonlucifer_l.png
+game sprites/enemies/3/boss_archdemonlucifer_r.png
+4
+x
+game sprites/enemies/projectiles/Hellfire.png
+game sprites/enemies/projectiles/Silver Shield.png
+game sprites/enemies/projectiles/White Bullet.png
+M.1250.0.0
+SF.2500.0.5
+10AWF.1750.0.5
+5WF.2000.0.5
+17500

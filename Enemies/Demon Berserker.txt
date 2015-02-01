@@ -1,0 +1,12 @@
+Demon Berserker
+1650
+75
+5
+42
+42
+game sprites/enemies/3/medium_demonberserker_l.png
+game sprites/enemies/3/medium_demonberserker_r.png
+1
+x
+M.475.0.0
+1275

@@ -1,0 +1,186 @@
+36
+Coral Bow ~ 165 ~ Archer ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/bows/T9 Coral Bow.png
+ ~ 50% atkspd ~ 0 ~ 0
+ ~ 75% critchance ~ 0 ~ 0
+Leaf Bow ~ 195 ~ Archer ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/bows/T9 Leaf Bow.png
+ ~ 30% dexterity ~ 0 ~ 0
+ ~ 30% mana ~ 0 ~ 0
+Cupid's Bow ~ 225 ~ Archer ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/bows/T10 Cupid's Bow.png
+ ~ 50% dexterity ~ 0 ~ 0
+ ~ 50 mana ~ 0 ~ 0
+Robobow ~ 290 ~ Archer ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/bows/T10 Robobow.png
+ ~ 50% critdmg ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Doom Bow ~ 375 ~ Archer ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/bows/T11 Doom Bow.png
+ ~ 25% critchance ~ 0 ~ 0
+ ~ 25% atkspd ~ 0 ~ 0
+Bow of Eternal Frost ~ 420 ~ Archer ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/bows/T12 Bow of Eternal Frost.png
+ ~ 50% atkspd ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Bone Daggers ~ 135 ~ Assassin ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/daggers/T9 Bone Daggers.png
+ ~ 75% atkspd ~ 0 ~ 0
+ ~ 25% critchance ~ 0 ~ 0
+Spirit Daggers ~ 180 ~ Assassin ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/daggers/T9 Spirit Daggers.png
+ ~ 50% mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Chicken Legs of Doom ~ 220 ~ Assassin ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/daggers/T10 Chicken Legs of Doom.png
+ ~ 200 mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Heartfind Daggers ~ 250 ~ Assassin ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/daggers/T10 Heartfind Daggers.png
+ ~ 100% critchance ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Poison Fang Daggers ~ 400 ~ Assassin ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/daggers/T11 Poison Fang Daggers.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Sunshine Shivs ~ 320 ~ Assassin ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/daggers/T11 Sunshine Shivs.png
+ ~ 50% atkspd ~ 0 ~ 0
+ ~ 50% critchance ~ 0 ~ 0
+Dirks of Cronus ~ 450 ~ Assassin ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/daggers/T12 Dirks of Cronus.png
+ ~ 100% critdmg ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Ray Blade ~ 110 ~ Knight ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/longswords/T9 Ray Blade.png
+ ~ 150 mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Venomous Blade ~ 175 ~ Knight ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/longswords/T9 Venomous Blade.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Buster Blade ~ 250 ~ Knight ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/longswords/T10 Buster Blade.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Diamond Bladed Longsword ~ 135 ~ Knight ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/longswords/T10 Diamond Bladed Longsword.png
+ ~ 85% critchance ~ 0 ~ 0
+ ~ 100% critdmg ~ 0 ~ 0
+Masamune ~ 230 ~ Knight ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/longswords/T11 Masamune.png
+ ~ 50% mana ~ 0 ~ 0
+ ~ 50% atkspd ~ 0 ~ 0
+Arbiters Wrath ~ 350 ~ Knight ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/longswords/T12 Arbiters Wrath.png
+ ~ 100% atkspd ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Staff of the Crystal Serpent ~ 190 ~ Wizard ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/staves/T9 Staff of the Crystal Serpent.png
+ ~ 50% critdmg ~ 0 ~ 0
+ ~ 50% critchance ~ 0 ~ 0
+Tree Branch ~ 240 ~ Wizard ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/staves/T9 Tree Branch.png
+ ~ 75% mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Staff of Adoration ~ 300 ~ Wizard ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/staves/T10 Staff of Adoration.png
+ ~ 60% critchance ~ 0 ~ 0
+ ~ 50% atkspd ~ 0 ~ 0
+Anatis Staff ~ 390 ~ Wizard ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/staves/T11 Anatis Staff.png
+ ~ 100% mana ~ 0 ~ 0
+ ~ 50% atkspd ~ 0 ~ 0
+Staff of Extreme Prejudice ~ 600 ~ Wizard ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/staves/T12 Staff of Extreme Prejudice.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Pirate King's Cutlass ~ 115 ~ Paladin ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/swords/T9 Pirate King's Cutlass.png
+ ~ 80% critchance ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Vinesword ~ 130 ~ Paladin ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/swords/T9 Vinesword.png
+ ~ 100 mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Ancient Stone Sword ~ 200 ~ Paladin ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/swords/T10 Ancient Stone Sword.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Crystal Sword ~ 140 ~ Paladin ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/swords/T10 Crystal Sword.png
+ ~ 100% atkspd ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Demon Blade ~ 190 ~ Paladin ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/swords/T11 Demon Blade.png
+ ~ 100% critchance ~ 0 ~ 0
+ ~ 25% critdmg ~ 0 ~ 0
+Frostbite ~ 300 ~ Paladin ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/swords/T12 Frostbite.png
+ ~ 75% mana ~ 0 ~ 0
+ ~ 50% atkspd ~ 0 ~ 0
+Sprite Wand ~ 75 ~ Priest ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/wands/T9 Sprite Wand.png
+ ~ 100% atkspd ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Wand of Budding ~ 90 ~ Priest ~ 9 ~ 0.055 ~ 125 ~ Weapon ~ game sprites/wands/T9 Wand of Budding.png
+ ~ 75% mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Wand of Eggcellence ~ 120 ~ Priest ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/wands/T10 Wand of Egg-cellence.png
+ ~ 85% mana  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Wand of the Bulwark ~ 160 ~ Priest ~ 10 ~ 0.058 ~ 225 ~ Weapon ~ game sprites/wands/T10 Wand of the Bulwark.png
+ ~  ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Conducting Wand ~ 130 ~ Priest ~ 11 ~ 0.072 ~ 350 ~ Weapon ~ game sprites/wands/T11 Conducting Wand.png
+ ~ 100%  atkspd ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+St Abraham's Wand ~ 195 ~ Priest ~ 12 ~ 0.091 ~ 650 ~ Weapon ~ game sprites/wands/T12 St. Abraham's Wand.png
+ ~ 125% mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+14
+Cheater's Plate ~ 120 ~ heavy ~ 9 ~ 0.055 ~ 125 ~ main ~ Armor ~ game sprites/heavy_armor/T9 Cheater's Plate.png
+ ~ 100% dexterity ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Candyplate Armor ~ 210 ~ heavy ~ 10 ~ 0.058 ~ 225 ~ main ~ Armor ~ game sprites/heavy_armor/T10 Candy-Coated Armor.png
+ ~ 100% health ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Acropolis Armor ~ 140 ~ heavy ~ 11 ~ 0.072 ~ 350 ~ main ~ Armor ~ game sprites/heavy_armor/T11 Acropolis Armor.png
+ ~ 300% health ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Golem Armor ~ 350 ~ heavy ~ 12 ~ 0.091 ~ 650 ~ main ~ Armor ~ game sprites/heavy_armor/T12 Golem Armor.png
+ ~ 100% health ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Cheater's Robes ~ 45 ~ light ~ 9 ~ 0.055 ~ 125 ~ main ~ Armor ~ game sprites/light_armor/T9 Cheater's Robes.png
+ ~ 100% dexterity ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Mad Scientist's Robes ~ 65 ~ light ~ 10 ~ 0.058 ~ 225 ~ main ~ Armor ~ game sprites/light_armor/T10 Mad Scientist's Robes.png
+ ~ 50% health ~ 0 ~ 0
+ ~ 100 mana ~ 0 ~ 0
+Tribal Robes ~ 135 ~ light ~ 11 ~ 0.072 ~ 350 ~ main ~ Armor ~ game sprites/light_armor/T11 Tribal Robes.png
+ ~ 250 mana ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Robes of Holy Light ~ 150 ~ light ~ 12 ~ 0.091 ~ 650 ~ main ~ Armor ~ game sprites/light_armor/T12 Robes of Holy Light.png
+ ~ 75% health ~ 0 ~ 0
+ ~ 125% mana ~ 0 ~ 0
+Cheater Armor ~ 75 ~ medium ~ 9 ~ 0.055 ~ 125 ~ main ~ Armor ~ game sprites/medium_armor/T9 Cheater Armor.png
+ ~ 100% dexterity ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Coral Silk Armor ~ 135 ~ medium ~ 10 ~ 0.058 ~ 225 ~ main ~ Armor ~ game sprites/medium_armor/T10 Coral Silk Armor.png
+ ~ 50% dexterity ~ 0 ~ 0
+ ~ 25% critchance ~ 0 ~ 0
+Hydra Skin Armor ~ 190 ~ medium ~ 11 ~ 0.072 ~ 350 ~ main ~ Armor ~ game sprites/medium_armor/T11 Hydra Skin Armor.png
+ ~ 90% health ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Spectral Cloth Armor ~ 225 ~ medium ~ 12 ~ 0.091 ~ 650 ~ main ~ Armor ~ game sprites/medium_armor/T12 Spectral Cloth Armor.png
+ ~ 175% dexterity ~ 0 ~ 0
+ ~  ~ 0 ~ 0
+Wall of Gaia ~ 170 ~ heavy ~ 11 ~ 0.072 ~ 375 ~ secondary ~ Armor ~ game sprites/shields/T11 Heaven's Wall.png
+ ~ 100% health  ~ 0 ~ 0
+ ~ 25% mana ~ 0 ~ 0
+Tome of Heavenly Protection ~ 90 ~ light ~ 11 ~ 0.072 ~ 375 ~ secondary ~ Armor ~ game sprites/tomes/T11 Tome of Ultimate Protection.png
+ ~ 250 health  ~ 0 ~ 0
+ ~ 250 mana  ~ 0 ~ 0
+11
+Candy Ring ~ 9 ~ 1 ~ 0.04375 ~ 125 ~ Accessory ~ game sprites/rings/T9 Candy Ring.png
+50 health ~ 0 ~ 0
+50 mana ~ 0 ~ 0
+Coral Ring ~ 9 ~ 1 ~ 0.04375 ~ 125 ~ Accessory ~ game sprites/rings/T9 Coral Ring.png
+25% dexterity ~ 0 ~ 0
+25% atkspd ~ 0 ~ 0
+Crystal Bone Ring ~ 9 ~ 1 ~ 0.04375 ~ 125 ~ Accessory ~ game sprites/rings/T9 Crystal Bone Ring.png
+50% critchance ~ 0 ~ 0
+25% critdmg ~ 0 ~ 0
+Ring of Divine Faith ~ 9 ~ 1 ~ 0.04375 ~ 125 ~ Accessory ~ game sprites/rings/T9 Ring of Divine Faith.png
+75% mana ~ 0 ~ 0
+ ~ 0 ~ 0
+Ring of the Nile ~ 10 ~ 1 ~ 0.0627 ~ 25 ~ Accessory ~ game sprites/rings/T10 Ring of the Nile.png
+100% mana ~ 0 ~ 0
+ ~ 0 ~ 0
+Ring of the Pyramid ~ 10 ~ 1 ~ 0.0627 ~ 25 ~ Accessory ~ game sprites/rings/T10 Ring of the Pyramid.png
+100% health ~ 0 ~ 0
+ ~ 0 ~ 0
+Ring of the Sphinx ~ 10 ~ 1 ~ 0.0627 ~ 25 ~ Accessory ~ game sprites/rings/T10 Ring of the Sphinx.png
+75% critchance ~ 0 ~ 0
+75% critdmg ~ 0 ~ 0
+Captain's Ring ~ 11 ~ 1 ~ 0.066 ~ 25 ~ Accessory ~ game sprites/rings/T11 Captain's Ring.png
+85% health ~ 0 ~ 0
+85% mana ~ 0 ~ 0
+Ouroborous Ring ~ 11 ~ 1 ~ 0.066 ~ 25 ~ Accessory ~ game sprites/rings/T11 Ouroborous Ring.png
+200% critdmg ~ 0 ~ 0
+ ~ 0 ~ 0
+The Forgotten Crown ~ 12 ~ 1 ~ 0.0905 ~ 25 ~ Accessory ~ game sprites/rings/T12 The Forgotten Crown.png
+200% health ~ 0 ~ 0
+ ~ 0 ~ 0
+The Twilight Gemstone ~ 12 ~ 1 ~ 0.0905 ~ 25 ~ Accessory ~ game sprites/rings/T12 The Twilight Gemstone.png
+100% dexterity ~ 0 ~ 0
+100% critchance ~ 0 ~ 0

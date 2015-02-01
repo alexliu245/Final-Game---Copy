@@ -1,0 +1,11 @@
+Elf Swordsman
+350
+20
+5
+42
+42
+game sprites/enemies/1/light_elfswordsman_l.png
+game sprites/enemies/1/light_elfswordsman_r.png
+1
+x
+M.75..

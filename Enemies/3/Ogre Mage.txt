@@ -1,0 +1,11 @@
+Ogre Mage
+1000
+35
+5
+50
+50
+game sprites/enemies/3/medium_ogremage_l.png
+game sprites/enemies/3/medium_ogremage_r.png
+1
+game sprites/enemies/projectiles/Red Fire.png
+SF.750.0.7

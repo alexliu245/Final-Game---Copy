@@ -1,0 +1,161 @@
+10
+4863
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Accessory
+Standard Ring ~ 2 ~ 0.500000 ~ 0.080000 ~ 50 ~ Accessory ~ game sprites/rings/T2 Ring.png
+30% critdmg ~ 150 ~ 0.016000
+ ~ 0 ~ 0.000000
+x
+x
+x
+Weapon
+Steel Daggers   ~ 70 ~ Assassin ~ 1 ~ 0.080000 ~ 25 ~ Weapon ~ game sprites/daggers/T1 Steel Daggers.png
+ ~  ~ 0 ~ 0.800000
+ ~ 70 ~ 0 ~ 0.800000
+Weapon
+Steel Longsword   ~ 90 ~ Knight ~ 2 ~ 0.080000 ~ 50 ~ Weapon ~ game sprites/longswords/T2 Steel Longsword.png
+ ~  ~ 0 ~ 0.800000
+ ~ 90 ~ 0 ~ 0.800000
+Weapon
+Plain Longsword   ~ 45 ~ Knight ~ 1 ~ 0.080000 ~ 25 ~ Weapon ~ game sprites/longswords/T1 Plain Longsword.png
+ ~  ~ 0 ~ 0.800000
+ ~ 45 ~ 0 ~ 0.800000
+Armor
+Steel Armor ~ 40 ~ heavy ~ 1 ~ 0.080000 ~ 20 ~ main ~ Armor ~ game sprites/heavy_armor/T1 Steel Armor.png
+ ~  ~ 0 ~ 0.800000
+of Vitality  ~ 20% health ~ 50 ~ 0.033000
+Armor
+Basilisk Hide Armor ~ 50 ~ medium ~ 2 ~ 0.080000 ~ 45 ~ main ~ Armor ~ game sprites/medium_armor/T2 Basilisk Hide Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Weapon
+Cutting Cutting Shortbow   ~ 65 ~ Archer ~ 1 ~ 0.080000 ~ 30 ~ Weapon ~ game sprites/bows/T1 Shortbow.png
+Cutting  ~ 5 dmg ~ 20 ~ 0.020000
+ ~ 65 ~ 0 ~ 0.800000
+Armor
+Wooden Shield ~ 25 ~ heavy ~ 1 ~ 0.080000 ~ 15 ~ secondary ~ Armor ~ game sprites/shields/T1 Wooden Shield.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Weapon
+Plain Longsword   ~ 45 ~ Knight ~ 1 ~ 0.080000 ~ 25 ~ Weapon ~ game sprites/longswords/T1 Plain Longsword.png
+ ~  ~ 0 ~ 0.800000
+ ~ 45 ~ 0 ~ 0.800000
+x
+Armor
+Blue Steel Armor ~ 80 ~ heavy ~ 2 ~ 0.080000 ~ 40 ~ main ~ Armor ~ game sprites/heavy_armor/T2 Blue Steel Armor.png
+Reinforced  ~ 10 armor ~ 50 ~ 0.010000
+ ~  ~ 0 ~ 0.800000
+x
+Weapon
+Shortbow   ~ 65 ~ Archer ~ 1 ~ 0.080000 ~ 30 ~ Weapon ~ game sprites/bows/T1 Shortbow.png
+ ~  ~ 0 ~ 0.800000
+ ~ 65 ~ 0 ~ 0.800000
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Weapon
+Energy Staff   ~ 80 ~ Wizard ~ 1 ~ 0.080000 ~ 25 ~ Weapon ~ game sprites/staves/T1 Energy Staff.png
+ ~  ~ 0 ~ 0.800000
+ ~ 80 ~ 0 ~ 0.800000
+x
+Armor
+Steel Armor ~ 40 ~ heavy ~ 1 ~ 0.080000 ~ 20 ~ main ~ Armor ~ game sprites/heavy_armor/T1 Steel Armor.png
+ ~  ~ 0 ~ 0.800000
+of Reinforcement  ~ 10 armor ~ 50 ~ 0.033000
+x
+x
+x
+Weapon
+Berserker Berserker Falchion   ~ 80 ~ Paladin ~ 2 ~ 0.080000 ~ 50 ~ Weapon ~ game sprites/swords/T2 Falchion.png
+Berserker  ~ 35% atkspd ~ 80 ~ 0.006000
+ ~ 80 ~ 0 ~ 0.800000
+Weapon
+Shortbow   ~ 65 ~ Archer ~ 1 ~ 0.080000 ~ 30 ~ Weapon ~ game sprites/bows/T1 Shortbow.png
+ ~  ~ 0 ~ 0.800000
+ ~ 65 ~ 0 ~ 0.800000
+Armor
+Apprentice's Robes ~ 15 ~ light ~ 1 ~ 0.080000 ~ 15 ~ main ~ Armor ~ game sprites/light_armor/T1 Apprentice's Robes.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Armor
+Basilisk Hide Armor ~ 50 ~ medium ~ 2 ~ 0.080000 ~ 45 ~ main ~ Armor ~ game sprites/medium_armor/T2 Basilisk Hide Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Weapon
+Reinforced Bow   ~ 130 ~ Archer ~ 2 ~ 0.080000 ~ 55 ~ Weapon ~ game sprites/bows/T2 Reinforced Bow.png
+ ~  ~ 0 ~ 0.800000
+ ~ 130 ~ 0 ~ 0.800000
+x
+Weapon
+Shortsword   ~ 40 ~ Paladin ~ 1 ~ 0.080000 ~ 25 ~ Weapon ~ game sprites/swords/T1 Short Sword.png
+ ~  ~ 0 ~ 0.800000
+ ~ 40 ~ 0 ~ 0.800000
+x
+Accessory
+Minor Ring ~ 1 ~ 0.250000 ~ 0.080000 ~ 25 ~ Accessory ~ game sprites/rings/T1 Ring.png
+20% critchance ~ 100 ~ 0.050000
+ ~ 0 ~ 0.000000
+x
+x
+x
+Armor
+Leather Cloak ~ 30 ~ medium ~ 2 ~ 0.080000 ~ 20 ~ secondary ~ Armor ~ game sprites/cloaks/T2 Leather Cloak.png
+Flawless  ~ 20% armor ~ 60 ~ 0.015000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+x
+Armor
+Apprentice's Tome ~ 10 ~ light ~ 1 ~ 0.080000 ~ 10 ~ secondary ~ Armor ~ game sprites/tomes/T1 Apprentice's Tome.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Armor
+Acolyte's Robes ~ 30 ~ light ~ 2 ~ 0.080000 ~ 30 ~ main ~ Armor ~ game sprites/light_armor/T2 Acolyte's Robes.png
+ ~  ~ 0 ~ 0.800000
+of Defense  ~ 20% armor ~ 50 ~ 0.033000
+Armor
+Leather Cloak ~ 30 ~ medium ~ 2 ~ 0.080000 ~ 20 ~ secondary ~ Armor ~ game sprites/cloaks/T2 Leather Cloak.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Accessory
+Standard Ring ~ 2 ~ 0.500000 ~ 0.080000 ~ 50 ~ Accessory ~ game sprites/rings/T2 Ring.png
+10% dexterity ~ 50 ~ 0.100000
+ ~ 0 ~ 0.000000
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x

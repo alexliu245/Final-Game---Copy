@@ -1,0 +1,18 @@
+Phoenix
+7500
+125
+7
+82
+82
+game sprites/enemies/2/boss_phoenix_l.png
+game sprites/enemies/2/boss_phoenix_r.png
+4
+x
+game sprites/enemies/projectiles/Fire Bolt.png
+game sprites/enemies/projectiles/Fire Spinner.png
+game sprites/enemies/projectiles/Hellfire.png
+M.750.0.0
+SF.800.0.7
+6AWF.600.1.6
+SF.1500.2.5
+12500

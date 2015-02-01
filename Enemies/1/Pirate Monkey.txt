@@ -1,0 +1,9 @@
+Pirate Monkey
+150
+0
+5
+26
+26
+game sprites/enemies/1/light_piratemonkey_l.png
+game sprites/enemies/1/light_piratemonkey_r.png
+0

@@ -1,0 +1,12 @@
+Minotaur
+8000
+250
+5
+82
+77
+game sprites/enemies/3/miniboss_minotaur_l.png
+game sprites/enemies/3/miniboss_minotaur_r.png
+1
+x
+M.1000.0.0
+7500

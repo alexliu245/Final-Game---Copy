@@ -1,0 +1,12 @@
+Pirate Captain
+300
+16
+4
+42
+42
+game sprites/enemies/1/medium_piratecaptain_l.png
+game sprites/enemies/1/medium_piratecaptain_r.png
+1
+x
+M.65.0.0
+200

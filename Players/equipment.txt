@@ -1,0 +1,54 @@
+Beginner's Longsword     ~ 25 ~ Knight ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/longswords/T1 Plain Longsword.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Armor ~ 30 ~ heavy ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/heavy_armor/T1 Steel Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Beginner's Bow     ~ 35 ~ Archer ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/bows/T1 Shortbow.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Leather Armor ~ 15 ~ medium ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/medium_armor/T1 Leather Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Beginner's Staff     ~ 50 ~ Wizard ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/staves/T1 Energy Staff.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Robes ~ 10 ~ light ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/light_armor/T1 Apprentice's Robes.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Beginner's Wand     ~ 17 ~ Priest ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/wands/T1 Force Wand.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Robes ~ 10 ~ light ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/light_armor/T1 Apprentice's Robes.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Beginner's Daggers     ~ 43 ~ Assassin ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/daggers/T1 Steel Daggers.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Leather Armor ~ 15 ~ medium ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/medium_armor/T1 Leather Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x
+Beginner's Sword     ~ 21 ~ Paladin ~ 0 ~ 0.080000 ~ 10 ~ Weapon ~ game sprites/swords/T1 Short Sword.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+Beginner's Armor ~ 30 ~ heavy ~ 0 ~ 0.080000 ~ 10 ~ main ~ Armor ~ game sprites/heavy_armor/T1 Steel Armor.png
+ ~  ~ 0 ~ 0.800000
+ ~  ~ 0 ~ 0.800000
+x
+x
+x

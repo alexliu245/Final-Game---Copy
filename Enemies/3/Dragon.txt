@@ -1,0 +1,13 @@
+Dragon
+2500
+100
+5
+82
+77
+game sprites/enemies/3/heavy_dragon_l.png
+game sprites/enemies/3/heavy_dragon_r.png
+2
+x
+game sprites/enemies/projectiles/Fireball.png
+M.1500..
+SF.2000.0.7

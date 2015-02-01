@@ -1,0 +1,88 @@
+20
+ ~  ~ 0 ~ 0.8
+Good  ~ 10% dmg ~ 20 ~ 0.034
+Flawless  ~ 20% dmg ~ 60 ~ 0.015
+Perfect  ~ 35% dmg ~ 100 ~ 0.006
+Legendary  ~ 50% dmg ~ 150 ~ 0.001
+Cutting  ~ 5 dmg ~ 20 ~ 0.02
+Slashing  ~ 10 dmg ~ 50 ~ 0.01
+Slaughtering  ~ 15 dmg ~ 80 ~ 0.006
+Jagged  ~ 20% critchance ~ 20 ~ 0.02
+Sharpened  ~ 50% critchance ~ 50 ~ 0.01
+Honed  ~ 80% critchance ~ 80 ~ 0.006
+Bloodthirsty  ~ 15% atkspd ~ 20 ~ 0.02
+Frenzied  ~ 25% atkspd ~ 50 ~ 0.01
+Berserker  ~ 35% atkspd ~ 80 ~ 0.006
+Earthly ~ 20 mana ~ 20 ~ 0.01
+Heavenly ~ 45 mana ~ 50 ~ 0.005
+Astral ~ 70 mana ~ 80 ~ 0.003
+Amplified ~ 5% mana ~ 20 ~ 0.01
+Enchanted ~ 15% mana ~ 50 ~ 0.005
+Maximized ~ 30% mana ~ 80 ~ 0.003
+8
+ ~  ~ 0 ~ 0.8
+of Dexterity ~ 25% atkspd ~ 50 ~ 0.033
+of Brutality ~ 20% dmg ~ 50 ~ 0.033
+of Precision ~ 40% critchance ~ 50 ~ 0.033
+of Bleeding ~ 40% critdmg ~ 50 ~ 0.033
+of Maiming ~ 10 dmg ~ 50 ~ 0.033
+of Intelligence ~ 20% mana ~ 50 ~ 0.0175
+of Wisdom ~ 60 mana ~ 50 ~ 0.0175
+20
+ ~  ~ 0 ~ 0.8
+Good  ~ 10% armor ~ 20 ~ 0.034
+Flawless  ~ 20% armor ~ 60 ~ 0.015
+Perfect  ~ 35% armor ~ 100 ~ 0.006
+Legendary  ~ 50% armor ~ 150 ~ 0.001
+Strengthened  ~ 5 armor ~ 20 ~ 0.02
+Reinforced  ~ 10 armor ~ 50 ~ 0.01
+Impenetrable  ~ 15 armor ~ 80 ~ 0.006
+Tough  ~ 10% health ~ 20 ~ 0.02
+Healing  ~ 20% health ~ 50 ~ 0.01
+Invincible  ~ 30% health ~ 80 ~ 0.006
+Vanishing  ~ 20% dexterity ~ 20 ~ 0.02
+Invisible  ~ 40% dexterity ~ 50 ~ 0.01
+Spectral  ~ 60% dexterity ~ 80 ~ 0.006
+Earthly ~ 20 mana ~ 20 ~ 0.01
+Heavenly ~ 45 mana ~ 50 ~ 0.005
+Astral ~ 70 mana ~ 80 ~ 0.003
+Amplified ~ 5% mana ~ 20 ~ 0.01
+Enchanted ~ 15% mana ~ 50 ~ 0.005
+Maximized ~ 30% mana ~ 80 ~ 0.003
+8
+ ~  ~ 0 ~ 0.8
+of Defense  ~ 20% armor ~ 50 ~ 0.033
+of Dexterity  ~ 40% dexterity ~ 50 ~ 0.033
+of Vitality  ~ 20% health ~ 50 ~ 0.033
+of Strength  ~ 50 health ~ 50 ~ 0.033
+of Reinforcement  ~ 10 armor ~ 50 ~ 0.033
+of Intelligence ~ 20% mana ~ 50 ~ 0.0175
+of Wisdom ~ 60 mana ~ 50 ~ 0.0175
+21
+10% dexterity ~ 50 ~ 0.1
+15% dexterity ~ 100 ~ 0.05
+20% dexterity ~ 150 ~ 0.016
+10% health ~ 50 ~ 0.1
+15% health ~ 100 ~ 0.05
+20% health ~ 150 ~ 0.016
+10% critchance ~ 50 ~ 0.1
+20% critchance ~ 100 ~ 0.05
+30% critchance ~ 150 ~ 0.016
+10% critdmg ~ 50 ~ 0.1
+20% critdmg ~ 100 ~ 0.05
+30% critdmg ~ 150 ~ 0.016
+20 health ~ 50 ~ 0.1
+40 health ~ 100 ~ 0.05
+60 health ~ 150 ~ 0.016
+5% mana ~ 50 ~ 0.05
+10% mana ~ 100 ~ 0.03
+15% mana ~ 150 ~ 0.005
+10 mana ~ 50 ~ 0.05
+20 mana ~ 100 ~ 0.03
+30 mana ~ 150 ~ 0.005
+
+
+
+
+
+

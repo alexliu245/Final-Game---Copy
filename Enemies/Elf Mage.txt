@@ -1,0 +1,12 @@
+Elf Mage
+295
+10
+5
+42
+42
+game sprites/enemies/1/light_elfmage_l.png
+game sprites/enemies/1/light_elfmage_r.png
+1
+game sprites/enemies/projectiles/Cyan Magic.png
+SF.110.0.6
+300

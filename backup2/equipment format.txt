@@ -1,0 +1,28 @@
+6 times in order of:
+Knight
+Archer
+Wizard
+Priest
+Assassin
+Paladin
+
+format:
+Weapon info
+weap efx 1
+weap efx 2
+Main Armor info
+main armor efx 1
+main armor efx 2
+Secondary Armor info
+sec. armor efx 1
+sex. armor efx 2
+ring1 info
+ring1 efx 1
+ring1 efx 2
+ring2 info
+ring2 efx 1
+ring2 efx 2
+
+if an x appears, then it means that there is no item for that category yet.
+if there is a 'no effect' on a weap, then it is of the format
+ ~  ~ 0 ~ 0.8

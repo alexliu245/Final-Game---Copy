@@ -1,0 +1,12 @@
+Eagle Sentry
+1500
+65
+6
+50
+50
+game sprites/enemies/2/heavy_eaglesentry_l.png
+game sprites/enemies/2/heavy_eaglesentry_r.png
+1
+x
+M.450..
+

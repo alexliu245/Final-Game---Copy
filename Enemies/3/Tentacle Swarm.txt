@@ -1,0 +1,11 @@
+Tentacle Swarm
+4000
+0
+7
+82
+82
+game sprites/enemies/3/miniboss_tentacleswarm_l.png
+game sprites/enemies/3/miniboss_tentacleswarm_r.png
+1
+game sprites/enemies/projectiles/Pink Bolt.png
+SF.2250.0.8
